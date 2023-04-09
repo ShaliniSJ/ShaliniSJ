@@ -16,7 +16,7 @@
 - ⚡ Fun fact **Loves technology more than my...**
 
 <h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/
-sjshalinisrinivasan" target="_blank">LinkedIn </a> </h3>
+sjshalinisrinivasan" target="_blank" >LinkedIn </a> </h3>
 <p align="left">
 </p>
 
