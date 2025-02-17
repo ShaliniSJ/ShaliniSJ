@@ -5,7 +5,6 @@ Software Developer
 ------------------
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [this link](http://https://shalinisj.github.io/My-portfolio/)
 * ✉️  You can contact me at [shalinisrinivasanjayanthi@gmail.com](mailto:shalinisrinivasanjayanthi@gmail.com)
 * 🧠  I'm learning Blockchain
 * 🤝  I'm open to collaborating on Blockchain and Cyber Security projects
